@@ -15,5 +15,7 @@ SMario+.zip：オリジナルの面影残るクソ難しい「SMB+」
 
 smb+easy.zip：SMB+の雰囲気を気軽に楽しむ「SMB+Easy」
 
+akuma.zip：悪魔の技を使いまくる「悪魔リオ」
+
 EMB_MAP.zip：ATA氏制作「EXTRA MARIO BROS」のネタバレ攻略マップ
 
