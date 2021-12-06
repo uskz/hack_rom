@@ -23,5 +23,13 @@ balloon.zip：バルーンを取って浮いて進む、時にはヌルリとす
 
 bms.zip：色々なものを逆にした「ズーザラブオリマーパース」
 
+charge.zip：裏技使う短編「充電」
+
+charge2.zip：裏技使うルートと使わないルート短編「幻魔充電」
+
+charge3.zip：裏技使わない短編「斑鳩～充電参～」
+
+charge4.zip：なんだっけこれ短編「Ｃ４」
+
 EMB_MAP.zip：ATA氏制作「EXTRA MARIO BROS」のネタバレ攻略マップ
 
