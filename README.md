@@ -31,5 +31,9 @@ charge3.zip：裏技使わない短編「斑鳩～充電参～」
 
 charge4.zip：なんだっけこれ短編「Ｃ４」
 
+dfws.zip：ずっと水中面「Old pond, Diving frog, and Water sound」
+
+helloworld.zip：おまけ面に行かなければやさしい「Hello World」
+
 EMB_MAP.zip：ATA氏制作「EXTRA MARIO BROS」のネタバレ攻略マップ
 
