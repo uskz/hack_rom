@@ -5,6 +5,8 @@ nightbugnet/AC3U1/ユウワン
 I will put here the documentation and IPS files of "Hack Mario", has made in the past.
 
 # Files
+それぞれのアーカイブ内にあるテキストも当時のままです。
+
 9.zip：BGMを東方紅魔郷の「おてんば恋娘」に変更したパッチ(BGM変更のみパッチと改造マリオ「⑨」)
 
 air.zip：処女作改造マリオ「AIR」
