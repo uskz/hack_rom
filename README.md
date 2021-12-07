@@ -7,8 +7,6 @@ I will put here the documentation and IPS files of "Hack Mario", has made in the
 # Files
 それぞれのアーカイブ内にあるテキストも当時のままです。
 
-9.zip：BGMを東方紅魔郷の「おてんば恋娘」に変更したパッチ(BGM変更のみパッチと改造マリオ「⑨」)
-
 air.zip：処女作改造マリオ「AIR」
 
 air2.zip：AIRを飛べなくしたクソ難しい「飛べない鳥」
@@ -63,7 +61,11 @@ music6.zip：「音楽改造6：君のためなら死ねる」
 
 music7.zip：「音楽改造7：ひぐらしのなく頃に you/そらのむこう」
 
-hatunegi.zip：「音楽改造9：Levan polkka(Leva's polka)」
+hatunegi.zip：初音ミク便乗改造マリオ「ハツネギ＋音楽改造9：Levan polkka(Leva's polka)」
+
+cheetahmanio.zip：チーターマン便乗改造マリオ「チーターマニオ＋音楽改造10：チーターマンメインテーマ」
+
+9.zip：東方ブーム便乗改造マリオ「⑨＋音楽改造12：おてんば恋娘」
 
 music13.zip：「音楽改造13：Bad Apple!! feat.nomico」
 
