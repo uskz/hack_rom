@@ -11,7 +11,7 @@ I will put here the documentation and IPS files of "Hack Mario", has made in the
 
 air.zip：処女作改造マリオ「AIR」
 
-air2.zip：AIRを飛べなくしたクソ難しい「AIR2」
+air2.zip：AIRを飛べなくしたクソ難しい「飛べない鳥」
 
 SMario+.zip：オリジナルの面影残るクソ難しい「SMB+」
 
