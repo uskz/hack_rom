@@ -5,7 +5,8 @@ nightbugnet/AC3U1/ユウワン
 I will put here the documentation and IPS files of "Hack Mario", has made in the past.
 
 # Files
-もっと詳しい説明はwikiを参照してください。(という予定)
+各ファイルの詳細な説明はwiki(https://github.com/uskz/hack_rom/wiki) を参照してください。
+
 air.zip：処女作改造マリオ「AIR」
 
 air2.zip：AIRを飛べなくしたクソ難しい「飛べない鳥」
