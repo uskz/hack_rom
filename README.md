@@ -5,8 +5,6 @@ nightbugnet/AC3U1/ユウワン
 I will put here the documentation and IPS files of "Hack Mario", has made in the past.
 
 # Files
-それぞれのアーカイブ内にあるテキストも当時のままです。
-
 air.zip：処女作改造マリオ「AIR」
 
 air2.zip：AIRを飛べなくしたクソ難しい「飛べない鳥」
@@ -83,3 +81,4 @@ sasuke.zip：例のテレビ番組みたいなタイムアタックマリオ「S
 
 EMB_MAP.zip：ATA氏制作「EXTRA MARIO BROS」のネタバレ攻略マップ
 
+地形グラフィック指定部分の解析.txt
