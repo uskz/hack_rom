@@ -81,6 +81,8 @@ N.zip：続・裏技入門「入門マリオ」
 
 sasuke.zip：例のテレビ番組みたいなタイムアタックマリオ「SASUKE」
 
+hrm.zip：多分世界一難しい「ハードリレーマリオ」
+
 EMB_MAP.zip：ATA氏制作「EXTRA MARIO BROS」のネタバレ攻略マップ
 
 地形グラフィック指定部分の解析.txt
